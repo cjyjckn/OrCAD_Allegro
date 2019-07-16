@@ -1,0 +1,13 @@
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:15:40 }
+
+#1 WARNING(ORCAP-36006): Part Name "DIPSOC-14X2_CAP_MY_ATMEGA328_DIPSOC-14X2_CAP" is renamed to "DIPSOC-14X2_CAP_MY_ATMEGA328_DI".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\USER\DESKTOP\WORK\MY_LIBS\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\MY_LIBS\allegro/pstchip.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\MY_LIBS\allegro/pstxprt.dat
+
+Loading... C:\USERS\USER\DESKTOP\WORK\MY_LIBS\allegro/pstxnet.dat
+packaging the design view...

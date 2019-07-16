@@ -1,0 +1,30 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jul-16-2019 at 17:15:41 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ATMEGA128';
+ POST_TIME='Apr 28 2014 16:45:46';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J3 'DIPSOC-14X2_CAP_MY_ATMEGA328_DI':;
+
+SECTION_NUMBER 1
+ '@ATMEGA128.SCHEMATIC1(SCH_1):INS5255@MECHANICAL.DIPSOC-14X2_CAP.NORMAL(CHIPS)':
+ C_PATH='@atmega128.schematic1(sch_1):ins5255@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ P_PATH='@atmega128.schematic1(sch_1):page_ins5255@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'DIPSOC-14X2_CAP_MY_ATMEGA328_DI':;
+
+SECTION_NUMBER 1
+ '@ATMEGA128.SCHEMATIC1(SCH_1):INS5385@MECHANICAL.DIPSOC-14X2_CAP.NORMAL(CHIPS)':
+ C_PATH='@atmega128.schematic1(sch_1):ins5385@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ P_PATH='@atmega128.schematic1(sch_1):page_ins5385@mechanical.\dipsoc-14x2_cap.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
